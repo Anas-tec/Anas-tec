@@ -122,7 +122,7 @@ A collection of reusable frontend components developed to improve consistency, m
 
 ---
 
-### 5. Model V3 – ORM & Query Builder
+### 5. ORM & Query Builder
 **Internal database development utility**
 
 A development tool designed to simplify database interactions and provide reusable patterns for working with database queries.
