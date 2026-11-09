@@ -1,8 +1,25 @@
 <!-- PROFILE-AUTO-START -->
-<!-- This section is generated automatically by .github/workflows/update-profile.yml -->
-## 👋 Loading GitHub profile data...
 
-The profile summary, public repository list, and recent public activity will appear here after the first workflow run.
+## 👋 Muhammed Anas
+
+**GitHub:** [@Anas-tec](https://github.com/Anas-tec)  
+Full Stack Developer | Node.js | Vue.js | Express.js | PostgreSQL | Building Scalable Applications &amp; Backend Solutions
+
+📍 Tamil Nadu, India · 🌐 [Website](https://Muhammedanas.netlify.app)
+
+| Public repositories | Followers | Following |
+|:---:|:---:|:---:|
+| **1** | **1** | **0** |
+
+### 🗂️ Recently Updated Public Repositories
+
+- [Anas-tec](https://github.com/Anas-tec/Anas-tec) — Profile · JavaScript
+
+### ⚡ Recent Public GitHub Activity
+
+_No recent public activity to display yet._
+
+<sub>Profile data refreshed automatically by GitHub Actions.</sub>
 
 <!-- PROFILE-AUTO-END -->
 
