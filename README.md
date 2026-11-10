@@ -3,11 +3,27 @@
 ## 👋 Muhammed Anas
 
 **GitHub:** [@Anas-tec](https://github.com/Anas-tec)  
-**LinkedIn** [Muhammed_anas](https://www.linkedin.com/in/muhammedanas07/)
-
 Full Stack Developer | Node.js | Vue.js | Express.js | PostgreSQL | Building Scalable Applications &amp; Backend Solutions
 
-📍 Tamil Nadu, India · 🌐 [Portfolio](https://Muhammedanas.netlify.app)
+📍 Tamil Nadu, India · 🌐 [Website](https://Muhammedanas.netlify.app)
+
+| Public repositories | Followers | Following |
+|:---:|:---:|:---:|
+| **1** | **1** | **0** |
+
+### 🗂️ Recently Updated Public Repositories
+
+- [Anas-tec](https://github.com/Anas-tec/Anas-tec) — Profile · JavaScript
+
+### ⚡ Recent Public GitHub Activity
+
+- Pushed 0 commit(s) to [Anas-tec/Anas-tec](https://github.com/Anas-tec/Anas-tec) · 09 Nov 2026
+- Pushed 0 commit(s) to [Anas-tec/Anas-tec](https://github.com/Anas-tec/Anas-tec) · 09 Nov 2026
+- Pushed 0 commit(s) to [Anas-tec/Anas-tec](https://github.com/Anas-tec/Anas-tec) · 09 Nov 2026
+- Pushed 0 commit(s) to [Anas-tec/Anas-tec](https://github.com/Anas-tec/Anas-tec) · 09 Nov 2026
+- Pushed 0 commit(s) to [Anas-tec/Anas-tec](https://github.com/Anas-tec/Anas-tec) · 09 Nov 2026
+
+<sub>Profile data refreshed automatically by GitHub Actions.</sub>
 
 <!-- PROFILE-AUTO-END -->
 
